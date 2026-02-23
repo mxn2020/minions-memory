@@ -1,7 +1,7 @@
 {
     "name": "minions-memory-workspace",
     "private": true,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Persistent cross-session memory, recalled facts, and agent knowledge base",
     "type": "module",
     "license": "MIT",
