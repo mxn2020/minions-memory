@@ -1,6 +1,12 @@
 ---
 name: minions-memory
-description: Persistent cross-session memory, recalled facts, and agent knowledge base
+id: OC-0130
+version: 1.0.0
+description: "Persistent cross-session memory, recalled facts, and agent knowledge base"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-memory — Agent Skills
