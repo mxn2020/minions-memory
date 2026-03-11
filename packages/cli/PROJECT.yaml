@@ -1,0 +1,8 @@
+name: "@minions-memory/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-memory-workspace
+description: "CLI for minions-memory — Persistent cross-session memory, recalled facts, and agent knowledge base"
+priority: high
+deploy_url: null
+tags: null
