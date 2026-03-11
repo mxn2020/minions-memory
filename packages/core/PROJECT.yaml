@@ -6,3 +6,4 @@ description: "Persistent cross-session memory, recalled facts, and agent knowled
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
